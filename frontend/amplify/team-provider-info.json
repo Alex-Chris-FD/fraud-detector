@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-frauddetectorfronten-dev-e4a66-authRole",
+      "UnauthRoleArn": "arn:aws:iam::314282564487:role/amplify-frauddetectorfronten-dev-e4a66-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::314282564487:role/amplify-frauddetectorfronten-dev-e4a66-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-frauddetectorfronten-dev-e4a66-deployment",
+      "UnauthRoleName": "amplify-frauddetectorfronten-dev-e4a66-unauthRole",
+      "StackName": "amplify-frauddetectorfronten-dev-e4a66",
+      "StackId": "arn:aws:cloudformation:us-east-1:314282564487:stack/amplify-frauddetectorfronten-dev-e4a66/fcb60410-80f3-11ef-9fc0-12f71411fde1",
+      "AmplifyAppId": "dttglgm9dbh0y"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dttglgm9dbh0y",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
